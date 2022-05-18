@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 ![](https://raw.githubusercontent.com/BitLoanLab/bitloan-front-end/main/PIC/Bitloan.jpg)
-=======
->>>>>>> 93f98bcfb43d64459dd69cde5e88515a6a5f5476
 ## Project name
 
 BitLoan
@@ -27,13 +24,10 @@ BitLoan uses smart contracts to give users complete control over their funds. As
 ## Submit information
 
 Github:https://github.com/BitLoanLab  
-Contract:https://github.com/BitLoanLab/Bitloan-Oasis-Bloom/tree/main/contracts
+Contract:https://github.com/BitLoanLab/Bitloan-Moonriver/tree/main/contracts  
 Front end:https://github.com/BitLoanLab/bitloan-front-end  
 PICs:https://github.com/BitLoanLab/bitloan-front-end/tree/main/PIC  
 
-## Youtube Video
-
- https://youtu.be/TXTucu6lU0U
 
 ## Contract deployment information
 
